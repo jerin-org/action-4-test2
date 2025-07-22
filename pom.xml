@@ -5,7 +5,7 @@
          
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
-  <artifactId>myapp2223</artifactId>
+  <artifactId>myapp22552</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
@@ -13,8 +13,8 @@
 
   <distributionManagement>
     <repository>
-      <id>jerin-org</id> #name of account
-      <url>https://maven.pkg.github.com/jerin-org/action-4-test2</url> #name of repo
+      <id>jerin-org</id>
+      <url>https://maven.pkg.github.com/jerin-org/action-4-test2</url>
     </repository>
   </distributionManagement>
 </project>
