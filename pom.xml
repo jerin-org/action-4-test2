@@ -13,8 +13,8 @@
 
   <distributionManagement>
     <repository>
-      <id>jerin-org</id>
-      <url>https://maven.pkg.github.com/jerin-org/git-action-3</url>
+      <id>jerin-org</id> #name of account
+      <url>https://maven.pkg.github.com/jerin-org/action-4-test2</url> #name of repo
     </repository>
   </distributionManagement>
 </project>
